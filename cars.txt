@@ -1,2 +1,6 @@
 Maruti 800
 VW Vento
+Skoda Kodiaq
+VW Polo
+Skoda Rapid
+
